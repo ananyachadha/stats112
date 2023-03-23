@@ -8,6 +8,6 @@ STRUCTURE:
 2. Data Cleaning
 3. Data Exploration
 4. Machine Learning
-5. Combined (Here, we run the pipeline in a giant for loop, to loop through many nodes. 
+5. Many Nodes Machine Learning (Here, we run the pipeline in a giant for loop, to loop through many nodes. 
 This lets us get accuracy scores for many nodes by running just one file.)
 The combined file merges collection, cleaning and ML. It omits exploration since we are running a known pipeline. 
