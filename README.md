@@ -44,5 +44,6 @@ predict price spread given input variables
 clean "return $/MW" column to just be binary buy or sell if it's positive or negative
 predict buy or sell given input variables
 
-5- Combine.ipynb to combine ALL files 1-4 to create a for loop to iterate through many nodes.
+5- CombinedMLPipeline.ipynb is where the magic happens!
+Here we combine ALL files 1, 2, and 4 to create a for loop to iterate through many nodes.
 
