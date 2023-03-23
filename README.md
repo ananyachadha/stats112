@@ -47,3 +47,7 @@ predict buy or sell given input variables
 5- CombinedMLPipeline.ipynb is where the magic happens!
 Here we combine ALL files 1, 2, and 4 to create a for loop to iterate through many nodes.
 
+
+Data: in this folder we have price data for each node. I got this from YesEnergy. It was my only non-api data. 
+Intermediate Data: a lot of my data is from APIs and they are saved as csvs through the process. If you want to check in what a CSV looks like, it's probably in the intermediate data folder.
+
